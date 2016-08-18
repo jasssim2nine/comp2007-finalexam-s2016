@@ -4,7 +4,10 @@ namespace COMP2007_Final_exam_s2016.Models
     using System.Data.Entity;
     using System.ComponentModel.DataAnnotations.Schema;
     using System.Linq;
-
+    /**
+     * Author : Jasim Khan
+     * Student# : 200263011
+     * */
     public partial class MVCMusicStoreContext : DbContext
     {
         public MVCMusicStoreContext()

@@ -8,7 +8,10 @@ using System.Net;
 using System.Web;
 using System.Web.Mvc;
 using COMP2007_Final_exam_s2016.Models;
-
+/**
+ * Author : Jasim Khan
+ * Student# : 200263011
+ * */
 namespace COMP2007_Final_exam_s2016.Controllers
 {
     public class ArtistsController : Controller
